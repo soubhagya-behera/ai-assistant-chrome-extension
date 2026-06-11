@@ -146,7 +146,6 @@ MCA Student | Java Full Stack Developer | AI Enthusiast
 * GitHub: https://github.com/soubhagya-behera
 * LinkedIn: https://www.linkedin.com/in/soubhagyakumar-java
 * Portfolio: https://soubhagya-portfolio-olive.vercel.app
-
 ---
 
 ## ⭐ Support
